@@ -15,7 +15,9 @@ pkg install unzip
 
 git clone https://github.com/kanxck/yogo.git
 
-unzip yogo-v.2.0.zip
+cd yogo
+
+unzip yogo.zip
 
 # silahkan edit config.php
 
