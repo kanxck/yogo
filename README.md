@@ -21,7 +21,7 @@ unzip yogo-v.2.0.zip
 
 nano config.php
 
-# menjankan bot
+# menjalankan bot
 
 php yogo.php
 
@@ -42,6 +42,9 @@ http://www.hlkdowk.com/wap/share/earnCash?&object_id=0&lang=in-ID&invite_code=18
 
 # @bianxkeroxs
 
+# @Kaumkusam23
 
 
+# ttd
 
+# @kanxck
