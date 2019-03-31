@@ -30,6 +30,7 @@ php yogo.php
 # kalau sudah stop dan mau menjalankan lagi
 
 cd yogo
+
 php yogo.php
 
 
