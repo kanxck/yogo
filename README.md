@@ -19,6 +19,8 @@ cd yogo
 
 unzip yogo.zip
 
+# link password zip https://1ink.cc/LNnV7
+
 # silahkan edit config.php
 
 nano config.php
