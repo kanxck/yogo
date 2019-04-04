@@ -1,5 +1,10 @@
 # BOT YOGO VIDIO TERBARU V2 BONUS MULTI AKUN
 
+
+![Screenshot_2019-04-05-04-43-02-21](https://user-images.githubusercontent.com/46498863/55592498-cbda3e80-5762-11e9-9202-23ebb842da51.png)
+![Screenshot_2019-04-05-04-44-13-11](https://user-images.githubusercontent.com/46498863/55592499-cc72d500-5762-11e9-8c3a-7af59da113c1.png)
+
+
 # INSTALL
 
 pkg install git
