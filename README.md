@@ -7,38 +7,38 @@
 
 # INSTALL
 
-pkg install git
+## pkg install git
 
-pkg install php
+## pkg install php
 
-pkg install php curl
+## pkg install php curl
 
-pkg install nano
+## pkg install nano
 
-pkg install unzip
+## pkg install unzip
 
 
-git clone https://github.com/kanxck/yogo.git
+## git clone https://github.com/kanxck/yogo.git
 
-cd yogo
+## cd yogo
 
-unzip yogo.zip
+## unzip yogo.zip
 
-# link password zip https://1ink.cc/LNnV7
+## link password zip https://1ink.cc/MHgA5
 
 # silahkan edit config.php
 
-nano config.php
+## nano config.php
 
 # menjalankan bot
 
-php yogo.php
+## php yogo.php
 
 # kalau sudah stop dan mau menjalankan lagi
 
-cd yogo
+## cd yogo
 
-php yogo.php
+## php yogo.php
 
 
 # link yogo atau download di playstore
@@ -49,15 +49,15 @@ http://www.hlkdowk.com/wap/share/earnCash?&object_id=0&lang=in-ID&invite_code=18
 
 # Thanks to
 
-# kampung scrypt
+##  kampung scrypt
 
-# @konon_jangan_dibalik
+##  @konon_jangan_dibalik
 
-# @AE1903V
+##  @AE1903V
 
-# @bianxkeroxs
+##  @bianxkeroxs
 
-# @Kaumkusam23
+##  @Kaumkusam23
 
 
 # ttd
