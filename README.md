@@ -18,7 +18,7 @@
 ## pkg install unzip
 
 
-## git clone https://github.com/kanxck/yogo.git
+## git clone https://github.com/kanxck/yogov2.git
 
 ## cd yogo
 
